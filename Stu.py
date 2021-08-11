@@ -1,4 +1,4 @@
-makes = ["Honda", "Ford", "Chevy", "Kia"]
+makes = ["Honda", "Ford", "Chevy", "Kia", "Saab"]
 
 def get_selection() -> int:
     combo_string = ""
